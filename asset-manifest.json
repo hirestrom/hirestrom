@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hirestrom/static/css/main.7f9ba7ce.css",
+    "main.js": "/hirestrom/static/js/main.7836f025.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/hirestrom/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/HomeBanner.png": "/hirestrom/static/media/HomeBanner.21b501e950d64f00297f.png",
+    "static/media/blog3.png": "/hirestrom/static/media/blog3.5d70a6c24103ea6af752.png",
+    "static/media/blog2.png": "/hirestrom/static/media/blog2.b79077d96ff7267d8cb5.png",
+    "static/media/blog1.png": "/hirestrom/static/media/blog1.0eed545409ce922d2266.png",
+    "static/media/freelancerbnr1.png": "/hirestrom/static/media/freelancerbnr1.f2cdf5f19cf41f3019a5.png",
+    "static/media/Footer-logo.svg": "/hirestrom/static/media/Footer-logo.4f19b33279416adbdb18b491901075e0.svg",
+    "index.html": "/hirestrom/index.html",
+    "main.7f9ba7ce.css.map": "/hirestrom/static/css/main.7f9ba7ce.css.map",
+    "main.7836f025.js.map": "/hirestrom/static/js/main.7836f025.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/hirestrom/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f9ba7ce.css",
+    "static/js/main.7836f025.js"
+  ]
+}
